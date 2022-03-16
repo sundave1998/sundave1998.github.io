@@ -313,6 +313,11 @@ body {
     background-color: #ffffff;
 }
 
+.center {
+    /* border: 5px solid #FFFF00; */
+    margin: 0 auto;
+}
+
 input,
 button,
 select,
