@@ -1,8 +1,8 @@
 - title: General Information
   type: map
   contents:
-    - name: Youbang Sun
-      value: Albert Einstein
+    - name: Name
+      value: Youbang Sun
     - name: Languages
       value: English, Mandarin Chinese
     - name: Email
