@@ -1,0 +1,35 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Youbang Sun
+      value: Albert Einstein
+    - name: Languages
+      value: English, Mandarin Chinese
+    - name: Email
+      value: sun.youb[at]northeastern(dot)edu
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD candidate
+      institution: Northeastern University
+      year: 2021 - Present
+      description:
+        - Ph.D. in Department of Mechanical and Industrial Engineering
+    - title: PhD candidate
+      institution: Texas A&M University
+      year: 2019 - 2021
+      description:
+        - Ph.D. in Department of Industrial and Systems Engineering
+- title: Experience
+  type: time_table
+  contents:
+    - title: Research Intern
+      institution: Alibaba Inc. Bellevue, Seattle
+      year: May-Sept 2023
+      description:
+        - Privacy and Communication Efficency in Federated Learning
+    - title: Research Intern
+      institution: Mitsubishi Electronics Research Laboratory
+      year: May-Aug 2022
+      description:
+        - Application of Federated Learning in Vehicular Data
