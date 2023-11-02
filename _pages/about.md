@@ -26,7 +26,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am currently a Fourth-year Ph.D. student in the Department of Mechanical & Industrial Engineering at Northeastern University (2021-now). My reseach interest includes theory and application of distributed optimization, such as the system dynamics of distribited mirror descent algorithms, federated learning and multi-agent reinforcement learning.
+I am currently a Ph.D. student in the Department of Mechanical & Industrial Engineering at Northeastern University (2021-now). My reseach interest includes theory and application of distributed optimization, such as the system dynamics of distribited mirror descent algorithms, federated learning and multi-agent reinforcement learning.
 I am advised by Prof. Shahin Shahrampour.
 
 I was previously a Ph.D. student in the Department of Industrial Engineering at Texas A&M University (2019-2021). Prior to that, I obtained my B.S. degree in Electrial Engineering from University of Science and Technology of China (2015-2019).
