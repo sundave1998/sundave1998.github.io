@@ -20,14 +20,15 @@
       institution: Texas A&M University
       year: 2019 - 2021
       description:
-        # - Ph.D. in Department of Industrial and Systems Engineering
-        - M.Sc. in Department of Industrial and Systems Engineering
+        - Ph.D. in Department of Industrial and Systems Engineering
+        # - M.Sc. in Department of Industrial and Systems Engineering
     - title: Bachelor of Science
       institution: University of Science and Technology of China
       year: 2015 - 2019
       description:
         # - Ph.D. in Department of Industrial and Systems Engineering
-        - B.Sc. in Department of Electric and Information Engineering
+        - Major in Electric and Information Engineering
+        - Minor in Computer Science
 - title: Experience
   type: time_table
   contents:
