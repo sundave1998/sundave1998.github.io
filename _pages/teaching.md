@@ -7,6 +7,10 @@ nav: true
 nav_order: 5
 ---
 
+Northeastern University:
+
+IE7280 Stat Methods in Engineering, Teaching Assistant, 2024
+
 Texas A&M University:
 
 ISEN 613 Engineering Data Analysis, Teaching Assistant, 2020

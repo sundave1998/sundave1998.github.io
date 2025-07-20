@@ -6,13 +6,31 @@
     - name: Languages
       value: English, Mandarin Chinese
     - name: Email
-      value: sun.youb[at]northeastern(dot)edu
+      value: ybsun[at]mail(dot)tsinghua(dot)edu(dot)cn
+- title: Professional Experience
+  type: time_table
+  contents:
+    - title: Assistant Researcher
+      institution: Department of Electrical Engineering, Tsinghua University
+      year: 2025 - now
+      description:
+        - Center for Collaborative & Conversational Intelligence
+    - title: Research Intern
+      institution: Alibaba Inc. Bellevue, Seattle
+      year: May-Sept 2023
+      description:
+        - Privacy and Communication Efficency in Federated Learning
+    - title: Research Intern
+      institution: Mitsubishi Electronics Research Laboratory
+      year: May-Aug 2022
+      description:
+        - Application of Federated Learning in Vehicular Data
 - title: Education
   type: time_table
   contents:
     - title: PhD candidate
       institution: Northeastern University
-      year: 2021 - Present
+      year: 2021 - 2025
       description:
         - Ph.D. in Department of Mechanical and Industrial Engineering
     # - title: PhD candidate
@@ -29,16 +47,4 @@
         # - Ph.D. in Department of Industrial and Systems Engineering
         - Major in Electric and Information Engineering
         - Minor in Computer Science
-- title: Experience
-  type: time_table
-  contents:
-    - title: Research Intern
-      institution: Alibaba Inc. Bellevue, Seattle
-      year: May-Sept 2023
-      description:
-        - Privacy and Communication Efficency in Federated Learning
-    - title: Research Intern
-      institution: Mitsubishi Electronics Research Laboratory
-      year: May-Aug 2022
-      description:
-        - Application of Federated Learning in Vehicular Data
+
