@@ -26,7 +26,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am currently an Assistant Researcher (助理研究员) in the Department of Electrical Engineering at Tsinghua University (2025-now). I am a faculty member of the THU-C3I Lab, my current research focuses on the theory and novel applications for LLM reasoning. I am also interested in safe and robust AI systems.
+I am currently an Assistant Researcher (助理研究员), PI, and PhD Advisor. My main affliation is with the Department of Electrical Engineering at Tsinghua University (2025-now). I am a faculty member of the [THU-C3I Lab](https://c3i.ee.tsinghua.edu.cn/en/people/). I am also affliated with the Shanghai AI Lab.
+
+My current research focuses on the theory and novel applications for LLM reasoning, including those in the physical world. I am also interested in safe and robust AI systems.
 
 I obtained my Ph.D. degree in 2025 from the Department of Mechanical & Industrial Engineering at Northeastern University (2021-2025). I am advised by Prof. Shahin Shahrampour. During my Ph.D, my research interest included theory and application of distributed optimization, such as the system dynamics of mirror descent / Riemannian gradient descent algorithms in distributed systems, federated learning and multi-agent reinforcement learning. 
 
